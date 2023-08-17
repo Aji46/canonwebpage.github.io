@@ -1,0 +1,295 @@
+.hea{
+    
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 110px;
+}
+.logo{
+    margin-top: -47px;
+}
+
+.logo img{
+    width: 137px;
+    height: 81px;
+    margin-top: -59px;
+    margin-left: 197px;
+}
+
+.country{
+
+    margin-top: -59px;
+    margin-left: 227px;
+    color: gray;
+}
+.text{
+    margin-top: -52px;
+    margin-left: 148px;
+}
+
+
+.sidehead{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -11px;
+    margin-left: 856px;
+}
+
+.tag{
+    color: red;
+
+}
+.tag2{
+    color: gray;
+}
+.search{
+    width: 22px;
+    height: 22px;
+}
+.tag3{
+    color: red;
+}
+
+
+
+.nav1{
+    background-color: #353535;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 64px;
+    margin-top: 11px;
+}
+.detaile{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    justify-items: center;
+    margin-top: -36px;
+    margin-left: 5px;
+}
+
+li{
+    list-style:none;
+}
+
+.sub{
+    background: url(head1.jpg);
+    width: 100%;
+    height:751px;
+}
+
+.main{
+    display: flex;
+    margin-top: -81px;
+    margin-left: 50px;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding: 0 135px
+}
+.mm28{
+    background-color: rgb(255, 255, 255);
+    height: 360px;
+    width:320px;
+    
+    border-radius: 31px;
+    
+}
+.lnce{
+    margin-top: 23px;
+    margin-left: -8px;
+    width: 50px;
+    height: 50px;
+}
+.mm28 img{
+    
+    margin-top: 0px;
+    margin-left: 2px;
+    width: 100%;
+    height: 77%
+    
+}
+body{
+    background-color: #fafafa;
+}
+
+.new{
+    background-color: red;
+    color: white;
+    height: 21px;
+    width: 44px;
+    margin-left: 258px;
+    margin-top: 0px;
+    border-radius: 10px;
+    border: 0;
+    outline: 0;
+}
+.cap{
+    color: black;
+    margin-left: 95px;
+}
+
+.in{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 360px;
+    width: 70%;
+    margin-left: 256px;
+    margin-top: 50px;
+    border-radius: 31px;
+    justify-content: space-evenly;
+}
+.image{
+    margin-top: 32px;
+    margin-left: 2px;
+    width: 50%;
+    height: 134%;
+}
+.cr120{
+    margin-top: -33px;
+    margin-left: -8px;
+    width: 409px;
+    height: 358px;
+}
+.image img{
+    margin-top: 0px;
+    margin-left: 2px;
+    width: 100%;
+    height: 77%
+
+}
+.text1{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-top: 50px;
+}
+.hedaing{
+    color: gray;
+}
+.items{
+    color: gray;
+}
+.view{
+    background-color: red;
+    color: white;
+    height: 32px;
+    width: 116px;
+    margin-top: 0px;
+    margin-left: 55px;
+    border-radius: 24px;
+    border: 0;
+    outline: 0;
+
+}
+
+.view1{
+    background-color: rgb(255, 255, 255);
+    color: red;
+    height: 32px;
+    width: 156px;
+    margin-top: 13px;
+    margin-left: 1159px;
+    border-radius: 24px;
+    border: 0.5;
+    outline: 0;
+    border-color: red;
+
+}
+
+.title {
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-size: 40px;
+    line-height: 52px;
+    margin-left: 257px;
+}
+.view2{
+    background-color: red;
+    color: white;
+    height: 32px;
+    width: 116px;
+    margin-top: 0px;
+    margin-left: 55px;
+    border-radius: 24px;
+    border: 0;
+    outline: 0;
+}
+.image2{
+    margin-top: 32px;
+    margin-left: 2px;
+    width: 50%;
+    height: 134%;
+}
+.hedaing2{
+    color: gray;
+    margin-top: -46px;
+}
+.items2{
+    color: gray;
+    margin-top: -3px;
+}
+.main3{
+    display: flex;
+    margin-top: 51px;
+    margin-left: 50px;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding: 0px 157px;
+    border-radius: 56px;
+}
+.mumbai{
+    background-color: rgb(255, 255, 255);
+    height: 503px;
+    width: 320px;
+    border-radius: 16px;
+}
+.lnce1{
+    margin-top: 23px;
+    margin-left: -8px;
+    width: 50px;
+    height: 50px;
+}
+
+.mumbai img{
+    
+    margin-top: 0px;
+    margin-left: 2px;
+    width: 100%;
+    height: 48%;
+    border-radius: 5px;
+}
+.cap1{
+    color:gray;
+}
+.view6{
+    background-color: rgb(255, 255, 255);
+    color: red;
+    height: 26px;
+    width: 239px;
+    margin-top: 13px;
+    margin-left: 1072px;
+    border-radius: 24px;
+    border: 0.5;
+    outline: 0;
+    border-color: red;
+}
+.title2{
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-size: 40px;
+    line-height: 52px;
+    margin-left: 257px;
+}
+.foot{
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+.companie{
+    background-color: white;
+    color:black;
+    width: 100%;
+
+}
+h3{
+    color: gray;
+}
